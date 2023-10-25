@@ -125,3 +125,7 @@ const clearBookmarks = function () {
 }
 
 // clearBookmarks();
+
+const newFeature = function() {
+  console.log("new-feature");
+}
